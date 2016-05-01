@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E4972C7B9B5E9790392138A5CD432DFA31A2D220",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E4972C7B9B5E9790392138A5CD432DFA31A2D220" : 0,
+    "0B938989A607007B9CE796CB85DEC9C78E03C490" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5687D287-8A5C-4BF7-9715-42F39DD2A0FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E4972C7B9B5E9790392138A5CD432DFA31A2D220" : "lookvenue_iphone_app",
+    "0B938989A607007B9CE796CB85DEC9C78E03C490" : "lookvenue"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "lookvenue",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "lookvenue.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pradeep-chauhan\/lookvenue.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B938989A607007B9CE796CB85DEC9C78E03C490"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GKMIT\/lookvenue_iphone_app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E4972C7B9B5E9790392138A5CD432DFA31A2D220"
+    }
+  ]
+}

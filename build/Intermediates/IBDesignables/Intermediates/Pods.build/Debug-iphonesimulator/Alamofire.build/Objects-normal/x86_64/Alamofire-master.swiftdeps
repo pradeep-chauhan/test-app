@@ -1,0 +1,14 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "b298ec9b0ca5f9b582ee6118d8f1ef3c"
+build_time: [515140652, 128068000]
+inputs: 
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/ParameterEncoding.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/ServerTrustPolicy.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Validation.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Manager.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Alamofire.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/MultipartFormData.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/ResponseSerialization.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Request.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Download.swift": !dirty [514016676, 0]
+	"/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Upload.swift": !dirty [514016676, 0]

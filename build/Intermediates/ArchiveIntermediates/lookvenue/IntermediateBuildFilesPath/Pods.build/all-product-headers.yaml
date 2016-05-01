@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/IQKeyboardManagerSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-Swift.h",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-umbrella.h",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/IQKeyboardManagerSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/IQKeyboardManagerSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/BuildProductsPath/Release-iphoneos/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

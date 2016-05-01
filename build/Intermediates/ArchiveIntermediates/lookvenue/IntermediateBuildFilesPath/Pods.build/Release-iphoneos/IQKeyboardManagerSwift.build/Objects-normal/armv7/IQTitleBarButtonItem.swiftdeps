@@ -1,0 +1,48 @@
+### Swift dependencies file v0 ###
+provides:
+- "IQTitleBarButtonItem"
+nominals:
+- "C22IQKeyboardManagerSwift20IQTitleBarButtonItem"
+class-members:
+- "font"
+top-level:
+- "UILabel"
+- !private "BooleanLiteralType"
+- !private "UIBarButtonItemStyle"
+- "NSCoder"
+- "UIBarButtonItem"
+- "UIFont"
+- !private "StringLiteralType"
+- "String"
+- "UIView"
+- !private "UIColor"
+- "CGRect"
+member-access:
+- "CSo8NSObject"
+- !private "V12CoreGraphics7CGFloat"
+- "PSs9AnyObject"
+- !private "OSC20UIBarButtonItemStyle"
+- "CSo9UIBarItem"
+- !private "OSC15NSTextAlignment"
+- !private "VSs12StaticString"
+- !private "CSo7UILabel"
+- !private "VSC18UIViewAutoresizing"
+- !private "CSo11UIResponder"
+- !private "CSo6UIFont"
+- !private "CSo7UIColor"
+- "CSo15UIBarButtonItem"
+- !private "CSo6UIView"
+- "C22IQKeyboardManagerSwift20IQTitleBarButtonItem"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Swift.swiftmodule"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Build/Intermediates/ArchiveIntermediates/lookvenue/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/IQKeyboardManagerSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Security.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/CoreImage.swiftmodule"

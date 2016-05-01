@@ -1,0 +1,13 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "c03ffc844d065892687237cea36412f3"
+inputs: 
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Alamofire.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Download.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Manager.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/MultipartFormData.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/ParameterEncoding.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Request.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/ResponseSerialization.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/ServerTrustPolicy.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Upload.swift"
+- "/Users/PradeepChauhan/mac app/Development/lookvenue_iphone_app/Pods/Alamofire/Source/Validation.swift"
